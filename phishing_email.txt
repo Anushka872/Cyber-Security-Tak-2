@@ -7,7 +7,7 @@ Dear Valued Customer, Kumari Anushka,
 
 We have detected unusual activity on your Bank of America account. To secure your funds, please verify your identity immediately by clicking the link below:
 
-https://bank-of-america-login-sec.com/verify?user=neel&id=12345
+https://bank-of-america-login-sec.com/verify?user=anushka&id=12345
 
 **WARNING**: Failure to act within the next 24 hours will result in a permanent suspension of your account. This is a critical security measure to protect you.
 
