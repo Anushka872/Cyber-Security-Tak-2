@@ -15,11 +15,11 @@ Manual Inspection: Checked the email for phishing signs like sender address, lin
 **Steps Performed**
 Created a Sample Email:
 Wrote a dummy phishing email and saved it as phishing_email.txt to simulate a suspicious email.
-**
-Analyzed the Sender:**
+
+**Analyzed the Sender:**
 Examined the "From" address to check if it looks fake or spoofed.
-**
-Identified Suspicious Links:**
+
+**Identified Suspicious Links**
 Looked for and noted any links that don’t match trusted domains.
 
 **Checked for Urgent Language:**
@@ -27,8 +27,8 @@ Reviewed the email body for words creating a sense of urgency or threat.
 
 **Documented Findings:**
 Recorded all observations in phishing_analysis.txt for submission.
-**
-Files Included**
+
+**Files Included**
 phishing_email.txt: A sample phishing email created for analysis.
 phishing_analysis.txt: A report detailing the phishing indicators found in the sample email.
 README.md: This file, explaining the task process and deliverables.
@@ -37,8 +37,8 @@ README.md: This file, explaining the task process and deliverables.
 Learned to spot phishing signs like fake sender addresses and suspicious links.
 Understood how urgent language is used to trick people (social engineering).
 Gained practice in documenting security findings clearly.
-**
-Challenges and Resolutions**
+
+**Challenges and Resolutions****
 Challenge: No real email with headers was available due to time constraints.
 Resolution: Used a dummy email and focused on visible phishing signs instead.
 
